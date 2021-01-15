@@ -29,3 +29,5 @@ Leia uma configuração inicial qualquer de uma matriz n x n contendo os número
 Leia uma "string" com uma sequência de movimentos (dentre {'c', 'd', 'b', 'e'}) a serem tentados (supor m>=1 movimentos);
 Realize os m movimentos (se todos forem válidos) e ao final imprima a matriz resultante.
 Se o movimento i (1<=i<=m) for o primeiro movimento inválido, deve-se imprimir NAO: i.
+
+
